@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="140a8a01-866e-451f-86d3-c64316f93535" name="Changes" comment="" />
+    <list default="true" id="140a8a01-866e-451f-86d3-c64316f93535" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpf-add/TP_AdD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tpf-add/TP_AdD.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +62,7 @@
       <workItem from="1728476717421" duration="5757000" />
       <workItem from="1728482950361" duration="4420000" />
       <workItem from="1728489242617" duration="6051000" />
+      <workItem from="1728498913855" duration="873000" />
     </task>
     <servers />
   </component>
