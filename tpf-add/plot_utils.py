@@ -1,5 +1,6 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
+import pandas as pd
 
 def plot_feature_histogram(dataframe, cols_to_plot):
     # Number of columns for the subplot
