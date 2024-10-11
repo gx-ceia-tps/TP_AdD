@@ -1,7 +1,7 @@
 import time
 from geopy.geocoders import Nominatim
 import logging
-from utils import add_space_before_second_uppercase
+from plot_utils import add_space_before_second_uppercase
 import pandas as pd
 
 logging.basicConfig(level=logging.DEBUG)  # para ver el error
