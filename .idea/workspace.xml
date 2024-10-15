@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="140a8a01-866e-451f-86d3-c64316f93535" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tpf-add/TP_AdD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tpf-add/TP_AdD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpf-add/TP_AdD_new.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tpf-add/TP_AdD_new.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +41,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
-        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -64,6 +64,8 @@
       <workItem from="1728489242617" duration="6051000" />
       <workItem from="1728498913855" duration="873000" />
       <workItem from="1728511688525" duration="2002000" />
+      <workItem from="1729023631015" duration="2854000" />
+      <workItem from="1729028038946" duration="296000" />
     </task>
     <servers />
   </component>
